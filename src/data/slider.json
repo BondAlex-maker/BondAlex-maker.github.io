@@ -1,0 +1,25 @@
+[
+  {
+    "imgUrl": "./assets/images/testimonial-1.jpg",
+    "quote": "\"Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam...\"",
+    "quoteAuthor": "Susan Sims, Interaction Designer at XYZ"
+  },
+
+  {
+    "imgUrl": "./assets/images/testimonial-2.jpg",
+    "quote": "\"Cras mattis consectetur purus sit amet fermentum. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur....\"",
+    "quoteAuthor": "Susan Sims, Interaction Designer at XYZ"
+  },
+
+  {
+    "imgUrl": "./assets/images/testimonial-1.jpg",
+    "quote": "\"Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam...\"",
+    "quoteAuthor": "Susan Sims, Interaction Designer at XYZ"
+  },
+
+  {
+    "imgUrl": "./assets/images/testimonial-2.jpg",
+    "quote": "\"Cras mattis consectetur purus sit amet fermentum. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur....\"",
+    "quoteAuthor": "Susan Sims, Interaction Designer at XYZ"
+  }
+]

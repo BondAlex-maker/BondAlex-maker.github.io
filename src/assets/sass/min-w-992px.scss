@@ -1,0 +1,59 @@
+
+
+
+/*DESKTOP_END
+_____________*/
+@media (min-width: 992px) {
+
+
+  .nav{
+    display: flex;
+  }
+
+  .nav__link{
+    margin-left: 50px;
+  }
+
+  .nav.show{
+    display: none;
+  }
+
+  .intro{
+    max-height: 750px;
+  }
+
+  .intro__title{
+    font-size: 65px;
+  }
+
+  .features__item{
+    width: 33.333333%;
+  }
+  .team{
+    margin: 100px 0 70px;
+  }
+  .team__item{
+    width: 25%;
+  }
+
+  .reviews__photo{
+    width: 50%;
+    margin: 0;
+  }
+  .reviews__content{
+    padding-left: 80px;
+    padding-bottom: 0;
+    width: 50%;
+  }
+  #slides{
+    height: 500px;
+  }
+  .buttons{
+    width: 50%;
+    margin-left: auto;
+    top: -50px
+  }
+  .burger{
+    display: none;
+  }
+}

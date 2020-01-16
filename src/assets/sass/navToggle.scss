@@ -1,0 +1,45 @@
+.navToggle {
+  position: absolute;
+  right: 0;
+  display: none;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 44px;
+  height: 44px;
+  background: #e84545;
+  border-radius: 50%;
+  padding-top: 3px;
+  z-index: 999;
+}
+
+.navToggle > div {
+  width: 18px;
+  height: 3px;
+  background: #fff;
+  margin-bottom: 3px;
+  transform-origin: left center;
+  transition: 0.3s;
+}
+
+.navToggleRotate > div {
+  margin-left: 3px;
+}
+
+.navToggleRotate > div:first-child {
+  transform: rotate(42deg);
+}
+
+.navToggleRotate > div:last-child {
+  transform: rotate(-42deg);
+}
+
+.navToggleRotate > div:nth-child(2) {
+  opacity: 0;
+}
+
+.mobileNavigationContainerOpen {
+  display: flex !important;
+  opacity: 0.9 !important;
+}

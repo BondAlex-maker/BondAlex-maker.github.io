@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Ruth Wood",
+    "position": "FOUNDER, CEO",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "avatar": "./assets/images/team-1.jpg",
+    "contacts": [
+      "https://facebookj.com/1",
+      "https://twitter.com/1",
+      "https://linkedin.com/1",
+      "https://google.com/1",
+      "https://dribble.com/1"
+    ]
+  },
+  {
+    "name": "Timothy Reed",
+    "position": "CO-FOUNDER, DEVELOPER",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "avatar": "./assets/images/team-2.jpg",
+    "contacts": [
+      "https://facebook.com/2",
+      "https://twitter.com/2",
+      "https://linkedin.com/2",
+      "https://google.com/2",
+      "https://dribble.com/2"
+    ]
+  },
+  {
+    "name": "Victoria Valdez",
+    "position": "FOUNDER, CEO",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "avatar": "./assets/images/team-3.jpg",
+    "contacts": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://google.com",
+      "https://dribble.com"
+    ]
+  },
+  {
+    "name": "Beverly Little",
+    "position": "DATA SCIENTIST",
+    "description": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo.",
+    "avatar": "./assets/images/team-4.jpg",
+    "contacts": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://google.com",
+      "https://dribble.com"
+    ]
+  }
+]

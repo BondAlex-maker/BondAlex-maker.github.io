@@ -1,0 +1,35 @@
+/*BUTTON===========================
+===============================*/
+
+.btn{
+  display: inline-block;
+  vertical-align: top;
+  padding: 14px 40px;
+
+  border-radius: 2px;
+  border: 0;
+  cursor: pointer;
+
+  font-family: 'Raleway', sans-serif;
+
+  font-size: 13px;
+  color: #ffffff;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+
+  transition: background 0.1s linear;
+}
+
+.btn--red{
+  background-color: #e84545;
+}
+
+.btn--red:hover{
+  background-color: #e8333c;
+}
+
+.btn--long{
+  min-width: 280px;
+}

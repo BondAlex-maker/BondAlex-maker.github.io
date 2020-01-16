@@ -1,0 +1,47 @@
+@media (min-width: 768px) {
+  .intro__title{
+    font-size: 40px;
+  }
+  .intro__subtitle{
+    margin-bottom: 60px;
+    font-size: 22px;
+  }
+  .features{
+    margin: 95px 0;
+  }
+
+  .features__item{
+    width: 50%;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .works__item{
+    width: 50%;
+    height: 350px;
+  }
+  .team__item{
+    width: 50%;
+  }
+  .reviews__text{
+    font-size: 36px;
+  }
+  #slides{
+    height: 750px;
+  }
+  .download{
+    margin: 90px 0;
+  }
+  .download__title{
+    font-size: 28px;
+  }
+  .footer__inner{
+    padding: 70px 0;
+  }
+  .footer__block{
+    padding: 0 15px;
+    width: 33.33333%;
+    margin-bottom: 0;
+  }
+
+}

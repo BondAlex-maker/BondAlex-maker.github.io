@@ -1,0 +1,48 @@
+/*NAV===========================
+===============================*/
+
+.nav{
+  display: none;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  justify-content: center;
+  align-items: center;
+
+}
+
+.nav.show{
+  display: flex;
+  width: 100%;
+  text-align: center;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+  height: 100vh;
+  flex-direction: column;
+}
+
+.nav__link{
+  margin-left: 0;
+  padding: 15px 15px;
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.75;
+
+  transition: opacity .1s linear;
+
+}
+
+.nav__link:first-child{
+  margin-left: 0;
+}
+
+.nav__link:hover{
+  opacity: 1;
+}
+
+.scroll{
+  scroll-behavior: smooth;
+}
